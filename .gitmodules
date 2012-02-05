@@ -1,0 +1,3 @@
+[submodule "micro_evtd"]
+	path = micro_evtd
+	url = https://github.com/shift/check_mk-micro_evtd.git
